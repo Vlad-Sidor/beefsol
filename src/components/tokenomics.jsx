@@ -18,7 +18,7 @@ const Tokenomics = () => {
                                 <li><p>50% $BEEF and raised $SOL goes to the LP</p></li>
                                 <li><p>LP will be burned</p></li>
                                 <li><p>No Taxes</p></li>
-                                <li><p>Contract will be Revoked/Immintable/Immutable</p></li>
+                                <li><p>Contract will be Revoked/Unmintable/Immutable</p></li>
                             </ul>
                         </div>
                     </div>
