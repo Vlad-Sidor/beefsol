@@ -1724,6 +1724,7 @@ img.dog-right{
     height: 100%;
     display: flex;
     flex-direction: column;
+    padding-bottom: 1em;
   }
   
   .header-container-title{
@@ -1871,7 +1872,7 @@ img.dog-right{
 
   .tokenomics{
     width: 100%;
-    padding-bottom: 2em;
+    padding-bottom: 3em;
   }
   
   .tokenomics-container-img img{
@@ -1923,6 +1924,7 @@ img.dog-right{
     width: 100%;
     height: 193px;
     display: flex;
+    padding-bottom: 1em;
   }
   
   .roadmap-container-content{
@@ -2171,7 +2173,7 @@ img.dog-right{
     padding-top: 0em;
     font-weight: 700;
     line-height: 1em;
-    margin:7%;
+    margin:10% 7%;
     color: white;
     line-height: 1.5em;
     text-align: center;
@@ -2190,7 +2192,8 @@ img.dog-right{
 
   .wallet-conteiner{
     display: flex;
-    padding-top: 0em;
+    padding-top: 1em;
+    padding-bottom: 2em;
   }
   
   .wallet{
@@ -2427,7 +2430,7 @@ img.dog-right{
 
   .tokenomics{
     width: 100%;
-    padding-bottom: 2em;
+    padding-bottom: 3em;
   }
   
   .tokenomics-container-img img{
@@ -2479,6 +2482,7 @@ img.dog-right{
     width: 100%;
     height: 193px;
     display: flex;
+    padding-bottom: 1em;
   }
   
   .roadmap-container-content{
@@ -2701,7 +2705,8 @@ img.dog-right{
     display: flex;
     justify-content: center;
     align-items: center;
-  
+    padding-top: 1em;
+    padding-bottom: 0.5em;
   }
   
   
@@ -2792,6 +2797,8 @@ img.dog-right{
   .wallet-conteiner{
     display: flex;
     padding-top: 0em;
+    padding-bottom: 2em;
+    
   }
   
   .wallet{
